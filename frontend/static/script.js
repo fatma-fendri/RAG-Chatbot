@@ -3,7 +3,7 @@ const API_QUERY_URL = '/query';
 const API_UPLOAD_URL = '/upload-pdf';
 
 // Define the paths for your avatars (Update these paths!)
-const USER_AVATAR = '/static/images/user_avatar.jpeg'; 
+const USER_AVATAR = '/static/images/user_avatar.png'; 
 const BOT_AVATAR = '/static/images/bot_avatar.jpg';   
 
 // --- DOM Elements ---

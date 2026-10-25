@@ -16,3 +16,6 @@ frontend/static/images/user_avatar.jpeg
 
 # Virtual environments
 .venv
+
+# Demo videos (too large for GitHub)
+*.mp4
