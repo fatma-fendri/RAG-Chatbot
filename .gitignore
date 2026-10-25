@@ -19,3 +19,4 @@ frontend/static/images/user_avatar.jpeg
 
 # Demo videos (too large for GitHub)
 *.mp4
+frontend/static/images/Demo*.png
